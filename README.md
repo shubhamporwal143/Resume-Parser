@@ -35,7 +35,7 @@ skill_ls = ['machine learning', 'data science', 'C++', 'html', 'css', 'angular',
 5.	Now type “git clone # follow up with the copied link”
 6.	Press enter
 7.	Type “cd # project name”
-8.	Type “python or python3 resume_parser.py”
+8.	Type “python or python3 code.py”
 9.	Now give the path where the resume is present  as an input
 10.	Press enter 
 11.	The extracted data is stored in the same directory in parsed_resume.json
