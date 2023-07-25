@@ -1,21 +1,33 @@
 README
-Resume Parser
+
+**Resume Parser**
+
 The Resume Parser is a Python script that extracts important information from resumes in either .docx or .pdf format. It identifies and extracts details such as name, email, phone number, education, experience, and relevant skills.
-Approach
+
+**Approach**
+
 •	Check whether the format is correct or not.
 •	Used regular expressions and NLP  for extracting names, phone numbers, etc.
 •	Used predefined ‘skills_ls’ database for extracting skills.
 •	Used JSON library for saving the parsed data in JSON format.
-Requirements
+
+**Requirements**
+
 Before running the script, make sure you have the following installed:
 •	Python 3.x
 •	Python libraries: docx, PyPDF2, nltk, JSON, re.
-Supported formats
+
+**Supported formats**
+
 •	Save the resume you want to parse in either .docx or .pdf format.
-Limited Skills parsing
+
+**Limited Skills parsing**
+
 The script uses a predefined skills database (skill_ls) to identify relevant skills in the resume. The skills database is defined as:
 skill_ls = ['machine learning', 'data science', 'C++', 'html', 'css', 'angular', 'react', 'java', 'computer vision', 'django', 'python', 'excel', 'english'] 
-Steps:
+
+**Steps:**
+
 1.	Download all the above-mentioned requirements using pip or pip3.
 2.	Copy the link of the project.
 3.	Open terminal or cmd 
@@ -28,7 +40,8 @@ Steps:
 10.	Press enter 
 11.	The extracted data is stored in the same directory in parsed_resume.json
 
-Pros/Cons
+**Pros/Cons**
+
 •	Result may vary with different templates of the resume
 •	The script uses regular expressions and simple heuristics to extract information, which may not be 100% accurate. Manual review and validation of the parsed data may be necessary.
 •	The skills identification process is based on the presence of keywords in the resume. It may not capture all skills accurately, and false positives may occur.
