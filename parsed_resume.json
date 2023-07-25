@@ -1,0 +1,53 @@
+{
+    "Name": "Shubham Choudhary",
+    "Email": "shubhamporwal159@gmail.com",
+    "Phone": "8120991266",
+    "Education": [
+        "Bachelors of Technology , Computer Science",
+        "Medicaps University",
+        "08/2019 - Present",
+        ",",
+        "8.75 CGPA",
+        "12th",
+        "Success H.S. School , Shamgarh",
+        "2018 - 2019",
+        ",",
+        "80.4%",
+        "10th",
+        "Swami Vivekanand school, Garoth",
+        "2016 - 2017",
+        ",",
+        "89.5 %"
+    ],
+    "Experience": [
+        "Python Developer(Intern)",
+        "Cropper Technologies private limited",
+        "01/2023 - 05/2023",
+        ",",
+        "Indore",
+        "Unit of OEPP Innovation",
+        "Lane detection and steering angle calculation for autonomous",
+        "vehicles by image processing with the help of OpenCV library.",
+        "Obstacle Detection and Calculating Distance from Vehicles to",
+        "Obstacle Using RGB and Stereo Cameras for Autonomous Vehicle.",
+        "Teaching Assistant in python(Intern)",
+        "Coding Ninjas",
+        "08/2022 - 12/2022",
+        ",",
+        "Gurugram, Haryana",
+        "Taking doubt Sessions and Debugging Codes on Python and DSA.",
+        "Helping Students in their assignments and Various Project",
+        "Providing guidance on Python programming concepts, syntax, and",
+        "problem-solving"
+    ],
+    "Skills": [
+        "Python",
+        "HTML",
+        "python",
+        "Django",
+        "machine learning",
+        "CSS",
+        "Computer Vision",
+        "English"
+    ]
+}
