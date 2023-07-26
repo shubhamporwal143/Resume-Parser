@@ -43,7 +43,10 @@ skill_ls = ['machine learning', 'data science', 'C++', 'html', 'css', 'angular',
 **Pros/Cons**
 
 •	Result may vary with different templates of the resume
+
 •	The script uses regular expressions and simple heuristics to extract information, which may not be 100% accurate. Manual review and validation of the parsed data may be necessary.
+
 •	The skills identification process is based on the presence of keywords in the resume. It may not capture all skills accurately, and false positives may occur.
+
 •	This would be usefull for filtering resume according to the recruiter’s needs.
 
